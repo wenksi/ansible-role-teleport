@@ -1,0 +1,3 @@
+teleport_ssh_enabled: false
+teleport_auth_tokens_node:
+  - 4234-jdka-0978

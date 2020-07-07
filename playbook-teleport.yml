@@ -1,0 +1,5 @@
+- hosts: node1
+  vars_files:
+    - vars/proxy.yml
+  roles:
+    - ./roles/ansible-role-teleport
