@@ -1,6 +1,0 @@
-teleport_ssh_enabled: true
-teleport_auth_enabled: false
-teleport_proxy_enabled: false
-teleport_auth_servers:
-  - 10.202.89.87
-teleport_auth_token: ajek-1214-daje
